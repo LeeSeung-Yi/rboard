@@ -1,0 +1,9 @@
+/*내가 원하는 대로 꾸미면 됨*/
+body {
+background-color: rgb(245, 211, 231);
+}
+
+/* boxicons 크기 조정*/
+.bx {
+  font-size: 16px;
+}
